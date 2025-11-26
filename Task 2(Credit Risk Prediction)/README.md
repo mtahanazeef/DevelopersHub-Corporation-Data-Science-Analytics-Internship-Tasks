@@ -1,9 +1,9 @@
 # Credit Risk Prediction - Loan Default Analysis
 
-## Project Overview
+## 📊 Project Overview
 This project focuses on building a machine learning model to predict loan defaults using a comprehensive dataset of 20,000 loan applications. The solution helps financial institutions make data-driven lending decisions and minimize risks.
 
-## Task Objective
+## 🎯 Task Objective
 **Predict whether a loan applicant is likely to default on a loan** based on various financial and demographic features.
 
 ## Dataset
@@ -11,7 +11,7 @@ This project focuses on building a machine learning model to predict loan defaul
 - **Features**: Demographic information, financial metrics, credit history, loan details
 - **Target**: `loan_paid_back` (converted to `default_risk` for prediction)
 
-## Approach
+## 📈 Approach
 
 ### 1. Data Understanding & Cleaning
 - Comprehensive data exploration and validation
@@ -42,7 +42,7 @@ This project focuses on building a machine learning model to predict loan defaul
 - Confusion matrix analysis
 - Feature importance ranking
 
-## Results and Insights
+## 🔍 Results and Insights
 
 ### Model Performance
 | Model | Accuracy | Precision | Recall | F1-Score | ROC-AUC |
@@ -65,7 +65,7 @@ This project focuses on building a machine learning model to predict loan defaul
 4. **Model Deployment**: Use Random Forest for accurate default prediction
 5. **Monitoring**: Regular model retraining and performance tracking
 
-## Files Structure
+## 📁 Files Structure
 - Task 2 Jupiter Notebook.ipynb # Main Jupyter notebook
 - loan_dataset_20000.csv # Dataset file
 - README.md # Project documentation
