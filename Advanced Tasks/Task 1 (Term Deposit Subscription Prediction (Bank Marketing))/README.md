@@ -35,15 +35,7 @@ bank-deposit-prediction/
 ├── Term_Deposit_Prediction.ipynb # Main Jupyter Notebook
 ├── requirements.txt # Python dependencies
 ├── README.md # This file
-│
-├── models/
-│ └── best_deposit_prediction_model.joblib # Saved best model
-│
-├── outputs/
-│ ├── project_summary.txt # Project summary (UTF-8)
-│ ├── project_summary_simple.txt # ASCII-only summary
-│ ├── project_metrics.csv # Performance metrics
-│ └── visualizations/ # Generated plots and charts
+
 
 
 ## 📈 Methodology
