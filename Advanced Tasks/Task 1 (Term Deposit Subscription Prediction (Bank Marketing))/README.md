@@ -128,16 +128,16 @@ Three classification algorithms were implemented and compared:
 - Jupyter Notebook
 - Required libraries (see requirements.txt)
 
-##📄 License
+## 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-##🙏 Acknowledgments
+## 🙏 Acknowledgments
 - UCI Machine Learning Repository for the dataset
 - Scikit-learn team for the excellent machine learning library
 - SHAP developers for model interpretability tools
 - Open-source community for various Python libraries
 
-##📞 Contact & Support
+## 📞 Contact & Support
 For questions, suggestions, or collaboration opportunities:
-Email: mtahabulc1922example.com
-LinkedIn: www.linkedin.com/in/m-taha-nazeef-673912282
+- Email: mtahabulc1922example.com
+- LinkedIn: www.linkedin.com/in/m-taha-nazeef-673912282
