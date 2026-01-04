@@ -124,3 +124,7 @@ mall-customer-segmentation/
 ## 👥 Contributors
     [Muhammad Taha]
 
+## 📞 Contact & Support
+For questions, suggestions, or collaboration opportunities:
+- Email: mtahabulc1922example.com
+- LinkedIn: www.linkedin.com/in/m-taha-nazeef-673912282
