@@ -176,9 +176,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
+**Muhammad Taha**
 - GitHub: [@mtahanazeef](https://github.com/mtahanazeef)
-- Email: mtahabulc1922@gmail.com @example.com
+- Email: mtahabulc1922@gmail.com 
 - LinkedIn: www.linkedin.com/in/m-taha-nazeef-673912282
 ---
 
