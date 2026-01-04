@@ -175,10 +175,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Instructors and peers for feedback
 
 ## 👤 Author
-
 **Muhammad Taha**
+
+## 📞 Contact & Support
+For questions, suggestions, or collaboration opportunities:
 - GitHub: [@mtahanazeef](https://github.com/mtahanazeef)
-- Email: mtahabulc1922@gmail.com 
+- Email: mtahabulc1922example.com
 - LinkedIn: www.linkedin.com/in/m-taha-nazeef-673912282
 ---
 
